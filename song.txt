@@ -2,5 +2,4 @@ Vaade karke na kadeeh zubaan mukkri
 Jehde fukkre ne muhron ohna de layi fukkri
 Hunn mitran nu shaunk hai ni race'an laun da ni
 Ni meri khinch la lagaam mainu aankhe nukkri
-time came to remove this line from the remote
 This is from the ubuntu system using local git(via ssh)
